@@ -1,4 +1,4 @@
-# 🚀 Awesome List 🚀
+# 🚀 Awesome List
 
 ## 🌈 Accessibilité
 
