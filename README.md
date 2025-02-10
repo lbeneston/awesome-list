@@ -4,13 +4,13 @@
 
 - **[APPT](https://appt.org/en/)** : Plateforme pour promouvoir l'accessibilité des applications.
 - **[Générateur de déclaration d'accessibilité](https://betagouv.github.io/a11y-generateur-declaration)** : Un outil pour générer des déclarations d'accessibilité conformes.
-- **[ARA - Assistance de Remédiation pour l'Accessibilité](https://ara.numerique.gouv.fr/)** : Plateforme gouvernementale pour aider à la mise en conformité des sites web.
+- **[ARA](https://ara.numerique.gouv.fr/)** : Plateforme gouvernementale pour aider à la mise en conformité des sites web.
 - **[Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)** : Outil Android pour tester l'accessibilité des applications.
-- **[Automatiser les tests d'accessibilité avec Storybook](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/)** : Tutoriel sur l'intégration de tests d'accessibilité dans Storybook.
+- **[Tests d'accessiblité avec Storybook](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/)** : Intégration des tests d'accessibilité dans Storybook.
 - **[axe-storybook-testing](https://github.com/chanzuckerberg/axe-storybook-testing)** : Outil pour tester l'accessibilité des composants dans Storybook.
 - **[jest-axe](https://github.com/nickcolley/jest-axe)** : Intégration d'axe-core pour tester l'accessibilité dans Jest.
 - **[eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)** : Plugin ESLint pour vérifier l'accessibilité du JSX.
-- **[Checklist d'accessibilité](https://design-accessible.fr/checklist)** : Liste de points à vérifier pour garantir l'accessibilité d'un site web.
+- **[Checklist d'accessibilité design](https://design-accessible.fr/checklist)** : Liste de points à vérifier pour garantir l'accessibilité d'un site web.
 - **[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)** : Outil d'analyse d'accessibilité en ligne.
 
 ## 🌱 Éco-conception
